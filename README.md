@@ -1,4 +1,5 @@
 Grocery Databse
+
 This database tracks customers, products, prices, orders, and order items. It helps list customer orders with product details and total costs.
 
 Tables
